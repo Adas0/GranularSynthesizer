@@ -1,7 +1,11 @@
 # GranularSynthesizer
-Granular Synthesizer using Python
 
 
-The project contains Granular Synthesizer, which you can easily compile using Python interpreter. 
+Granular Synthesizer using Python. 
 
-If u wish full version of this project, we can talk.
+![granular_synth_GUI](https://github.com/Adas0/GranularSynthesizer/blob/master/granular_synth_gui.PNG)
+
+
+Grain signals available: sine + noise.
+Changable parameteres and options: as shown in GUI.
+You can also plot current state of a grain of sound
